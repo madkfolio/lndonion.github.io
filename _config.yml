@@ -3,8 +3,8 @@ description: Benvenuto, sono Cristiano e questo è il mio portfolio, qui desider
 
 
 
-baseurl: "/madfolio.github.io" # the subpath of your site, e.g. /blog
-url: "https://madfolio.github.io" # the base hostname & protocol for your site
+baseurl: "/madkfolio.github.io" # the subpath of your site, e.g. /blog
+url: "https://madkfolio.github.io" # the base hostname & protocol for your site
 permalink: /:title/
 
 
