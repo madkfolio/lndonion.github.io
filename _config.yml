@@ -1,10 +1,10 @@
-title: Webjeda Slides
-description: Webjeda slides is built using revealjs. The idea is to keep all the slideshows in one place as posts. All your presentations can be accessed from one place!
+title: Cristiano Leopardi MadFolio
+description: Benvenuto, sono Cristiano e questo è il mio portfolio, qui desidero condividere tutte le mie esperienze professionali e di vita create durante la mia carriera professionale e non
 
 
 
-baseurl: "/lndonion.github.io" # the subpath of your site, e.g. /blog
-url: "https://lndonion.github.io" # the base hostname & protocol for your site
+baseurl: "/madfolio.github.io" # the subpath of your site, e.g. /blog
+url: "https://madfolio.github.io" # the base hostname & protocol for your site
 permalink: /:title/
 
 
